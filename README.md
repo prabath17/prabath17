@@ -70,7 +70,7 @@
 
 ## 🧠 LeetCode Contribution Graph
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prabathv2005?ext=heatmap&theme=dark)](https://leetcode.com/PRABATH_V)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/PRABATH_V?ext=heatmap&theme=dark)](https://leetcode.com/PRABATH_V)
 
 
 

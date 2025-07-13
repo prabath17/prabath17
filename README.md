@@ -66,7 +66,10 @@
 
 ## 👨‍💻 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/PRABATH_V)  
+## 📊 LeetCode Stats
+
+![LeetCode Stats Card](https://leetcard.jacoblin.cool/PRABATH_V?theme=dark&font=Karla&ext=activity)
+
 📧 Email: prabathsuseela@gmail.com  
 
 ---

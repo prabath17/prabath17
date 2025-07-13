@@ -35,12 +35,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-## 📈 GitHub Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabath17&theme=github-compact)](https://github.com/prabathv2005)
-
 
 ---
 
@@ -48,29 +42,45 @@
 
 ### 🏋️ Gym Management System  
 > A full-stack Flask + Supabase app for managing gym operations, registrations, and admin dashboards.  
-[🔗 GitHub Repo](#)
+
 
 ### 📊 Google Sheets Automation  
 > Automated Google Sheets with Python and gspread to handle formatting, data entry, and API integration.  
-[🔗 GitHub Repo](#)
+
 
 ### 🔐 Authentication System with Flask  
 > Built a secure login/register system using Flask and PostgreSQL with session handling and form validation.  
-[🔗 GitHub Repo](#)
+
 
 ### 📤 API Log Monitoring Tool  
 > Created a log monitoring tool in Python that reads error logs, parses JSON, and sends alerts for failed API responses.  
-[🔗 GitHub Repo](#)
+
 
 ---
 
-## 👨‍💻 Coding Profiles
+
+## 📈 GitHub Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabath17&theme=github-compact)](https://github.com/prabathv2005)
+
 
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats Card](https://leetcard.jacoblin.cool/PRABATH_V?theme=dark&font=Karla&ext=activity)
 
-📧 Email: prabathsuseela@gmail.com  
+## 🧠 LeetCode Contribution Graph
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prabathv2005?ext=heatmap&theme=dark)](https://leetcode.com/prabathv2005)
+
+## 📬 Contact Me
+
+<p align="center">
+  <a href="mailto:prabathsuseela@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+  <a href="https://www.linkedin.com/in/prabath-suseela-695b8028b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://leetcode.com/u/PRABATH_V/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+</p>
+
 
 ---
 

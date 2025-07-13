@@ -1,64 +1,71 @@
-# 👋 Hi, I'm Prabath V
+<h1 align="center">Hi there, I'm Prabath 👋</h1>
 
-🎓 I'm a Computer Science Engineering student (2022–2026) passionate about backend development, automation, and building tools that solve real-world problems.  
-🔧 I specialize in Python development, REST API integrations, cloud services, and application support tools.  
-🌐 Currently exploring error tracking with **Sentry**, cloud deployments with **Supabase**, and working on projects involving **Flask** and **PostgreSQL**.
-
----
-
-## 🚀 Skills & Tools
-
-- **Languages:** Python, Java, Shell Scripting  
-- **Frameworks:** Flask  
-- **Databases:** MySQL, PostgreSQL (Supabase)  
-- **Cloud & APIs:** Google Cloud, Supabase, Google Sheets API, gspread  
-- **Monitoring & Support:** Sentry (learning), Logging, Debugging  
-- **Tools:** Git, GitHub, VS Code, Linux Terminal  
-- **Other:** Pandas, NumPy, Matplotlib
+<p align="center">
+  💻 Aspiring Application Support Engineer | 🐍 Python Enthusiast | 🌐 Web Tech Explorer <br>
+  🎓 Computer Science Student @ Vel Tech High Tech (2022–2026)
+</p>
 
 ---
 
-## 🛠 Projects
+## 🧠 About Me
 
-### 🔹 Gym Management System  
-Full-stack web app using **Flask** and **Supabase** for managing gym operations including registrations, workouts, and admin control.  
-[View Project](#) <!-- replace # with actual link -->
+- 🎯 Passionate about building backend systems, APIs, and automation scripts.
+- 🛠️ Love working with Python, Flask, PostgreSQL, and cloud tools like Supabase.
+- 🧰 Currently learning how to use **Sentry** for error monitoring and exploring **Azure Cloud**.
+- 🌍 Open to working in **UK/US shift environments** and collaborating on real-world tech solutions.
+- 📚 Always learning something new — be it debugging, scripting, or APIs.
 
-### 🔹 Google Sheets Automation  
-Python automation using **gspread** and **Google Sheets API** for dynamic sheet creation, data input, and formatting.  
-[View Project](#)
+---
+
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/-Flask-333?style=for-the-badge&logo=flask)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![Linux](https://img.shields.io/badge/-Linux-333?style=for-the-badge&logo=linux)
+![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-333?style=for-the-badge&logo=google-cloud)
+![Supabase](https://img.shields.io/badge/-Supabase-333?style=for-the-badge&logo=supabase)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Prabath's GitHub stats](https://github-readme-stats.vercel.app/api?username=prabathv2005&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabath17&show_icons=true&theme=tokyonight" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabath17&theme=tokyonight" width="450"/>
+</p>
 
 ---
 
-## 📫 Let's Connect!
+## 📂 Featured Projects
 
-- 📧 Email: [prabathsuseela@gmail.com](mailto:prabathsuseela@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) <!-- replace with actual link -->
-- 💻 [Portfolio or Website](#) <!-- optional -->
+### 🏋️ Gym Management System  
+> A full-stack Flask + Supabase app for managing gym operations, registrations, and admin dashboards.  
+[🔗 GitHub Repo](#)
+
+### 📊 Google Sheets Automation  
+> Automated Google Sheets with Python and gspread to handle formatting, data entry, and API integration.  
+[🔗 GitHub Repo](#)
+
+### 🔐 Authentication System with Flask  
+> Built a secure login/register system using Flask and PostgreSQL with session handling and form validation.  
+[🔗 GitHub Repo](#)
+
+### 📤 API Log Monitoring Tool  
+> Created a log monitoring tool in Python that reads error logs, parses JSON, and sends alerts for failed API responses.  
+[🔗 GitHub Repo](#)
 
 ---
 
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 👨‍💻 Coding Profiles
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/PRABATH_V)  
+📧 Email: prabathsuseela@gmail.com  
 
+---
 
-<!--
-**prabath17/prabath17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> _“Intelligence is the ability to avoid doing work, yet getting the work done.” – Linus Torvalds_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

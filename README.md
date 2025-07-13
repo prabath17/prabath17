@@ -66,11 +66,13 @@
 
 ## 📊 LeetCode Stats
 
-![LeetCode Stats Card](https://leetcard.jacoblin.cool/PRABATH_V?theme=dark&font=Karla&ext=activity)
 
-## 🧠 LeetCode Contribution Graph
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/PRABATH_V?ext=heatmap&theme=dark)](https://leetcode.com/PRABATH_V)
+<p align="center">
+  <a href="https://leetcode.com/PRABATH_V">
+    <img src="https://leetcard.jacoblin.cool/PRABATH_V?ext=heatmap&theme=dark" alt="LeetCode Stats" width="100%" />
+  </a>
+</p>
 
 
 

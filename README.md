@@ -70,16 +70,18 @@
 
 ## 🧠 LeetCode Contribution Graph
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/prabathv2005?ext=heatmap&theme=dark)](https://leetcode.com/prabathv2005)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/prabathv2005?ext=heatmap&theme=dark)](https://leetcode.com/PRABATH_V)
+
+
 
 ## 📬 Contact Me
 
-<p align="center">
-  <a href="mailto:prabathsuseela@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+- 📧 Email: [prabathsuseela@gmail.com](mailto:prabathsuseela@gmail.com)  
 
-  <a href="https://www.linkedin.com/in/prabath-suseela-695b8028b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/PRABATH_V/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
+- 💼 LinkedIn: [linkedin.com/in/prabath-suseela-695b8028b](https://www.linkedin.com/in/prabath-suseela-695b8028b/)
+
+- 🧠 LeetCode: [leetcode.com/u/PRABATH_V](https://leetcode.com/u/PRABATH_V/)  
+
 
 
 ---

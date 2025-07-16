@@ -61,7 +61,7 @@
 
 ## 📈 GitHub Contribution Graph
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabath17&theme=github-compact)]([https://github.com/prabath17](https://github.com/prabath17?tab=repositories))
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prabath17&theme=github-compact)]([https://github.com/prabath17?tab=repositories])
 
 
 ## 📊 LeetCode Stats
